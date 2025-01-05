@@ -1,5 +1,8 @@
 # Binary Solutions Website
 
+![binary solutions](https://github.com/user-attachments/assets/51f40b33-55df-4d43-a770-e75443981109)
+
+
 Welcome to the Binary Solutions website repository. This project showcases the services, portfolio, and contact information for Binary Solutions, a leading provider of innovative software solutions.
 
 ## Table of Contents
