@@ -2,35 +2,16 @@
 
 ![binary solutions](https://github.com/user-attachments/assets/51f40b33-55df-4d43-a770-e75443981109)
 
-
 Welcome to the Binary Solutions website repository. This project showcases the services, portfolio, and contact information for Binary Solutions, a leading provider of innovative software solutions.
 
 ## Table of Contents
 
-- [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-
-## Project Structure
-
-├── index.html
-├── about.html
-├── services.html
-├── portfolio.html
-├── contact.html
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── js/
-│   │   └── script.js
-│   ├── img/
-│   │   ├── logos/
-│   │   ├── icons/
-│   │   └── people/
 
 ## Technologies Used
 
@@ -66,9 +47,9 @@ Open the [index.html](http://_vscodecontentref_/11) file in your web browser to 
 
 ## Legal Documentation
 
--Privacy Policy (privacyPolicy.html)
--Copyright Policy (copyrightPolicy.html)
--Terms (terms.html)
+- Privacy Policy (privacyPolicy.html)
+- Copyright Policy (copyrightPolicy.html)
+- Terms (terms.html)
 
 ## Contributing
 
